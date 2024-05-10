@@ -1,4 +1,4 @@
-# Hi there and welcome to my Github profile 👋
+# Hey my fellow nerds 😁
 
 ## Current active projects
 
