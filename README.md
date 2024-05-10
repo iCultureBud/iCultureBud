@@ -7,7 +7,7 @@ CWF is a collaborative clipboard for friends or teams. \
 It consists of small server where all the files are saved and the client CLI to send and fetch informations from/to the server. \
 
 Our main goal with CWF is to build a nice collaborative tool for us \
-and also to learn [![Go](https://skillicons.dev/icons?i=go)](https://go.dev/)
+and also to learn [Go](https://go.dev/).
 
 ## OS
 I used to use Arch Linux + Hyprland ❤️ as my main OS. I learned a lot while ricing and tuning \
