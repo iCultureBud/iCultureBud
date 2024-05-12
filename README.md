@@ -2,7 +2,7 @@
 
 ## Current active projects
 
-### [CWF](https://github.com/DrinoSan/cwf) / copy with friends
+### [CWF](https://github.com/noobcollective/cwf) / copy with friends
 CWF is a collaborative clipboard for friends or teams. \
 It consists of small server where all the files are saved and the client CLI to send and fetch informations from/to the server. \
 
@@ -33,7 +33,7 @@ All my dotfiles can be found in my [dotties](https://github.com/iCultureBud/dott
 As of now I'm a Full Stack Web Developer with focus on Django projects.
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=dart,js,ts,py,django,go,docker,postgres,linux,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,js,ts,py,django,docker,postgres,linux,neovim)](https://skillicons.dev)
 
 ## Blog recommendation
 My nerdy friend [DrinoSan](https://github.com/DrinoSan) blogs about weird nerdy stuff (often about C++). \
