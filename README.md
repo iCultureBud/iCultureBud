@@ -18,7 +18,7 @@ compile a Flutter app to iOS (and you need MacOs for that...). I couldn't get us
 customized MacOs as far as possible.
 
 ### Current setup
-- Operating System: MacOs 14 Sonoma
+- Operating System: MacOs 15 Sequioa
 - Window Manager: [Yabai](https://github.com/koekeishiya/yabai)
 - Shortcuts: [SKHD](https://github.com/koekeishiya/skhd)
 - Terminal Emulator: [WezTerm](https://wezfurlong.org/wezterm/)
@@ -33,7 +33,7 @@ All my dotfiles can be found in my [dotties](https://github.com/iCultureBud/dott
 As of now I'm a Full Stack Web Developer with focus on Django projects.
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=dart,js,ts,py,django,docker,postgres,linux,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,cpp,js,ts,py,django,docker,postgres,linux,neovim)](https://skillicons.dev)
 
 ## Blog recommendation
 My nerdy friend [DrinoSan](https://github.com/DrinoSan) blogs about weird nerdy stuff (often about C++). \
