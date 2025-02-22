@@ -30,10 +30,10 @@ customized MacOs as far as possible.
 All my dotfiles can be found in my [dotties](https://github.com/iCultureBud/dotties) repository - feel free to check them out!
 
 ## Profession
-As of now I'm a Full Stack Web Developer with focus on Django projects.
+As of now I'm a software developer with focus on aviation software.
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=go,cpp,js,ts,py,django,docker,postgres,linux,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=neovim,linux,cpp,go,py,django,docker,postgres)](https://skillicons.dev)
 
 ## Blog recommendation
 My nerdy friend [DrinoSan](https://github.com/DrinoSan) blogs about weird nerdy stuff (often about C++). \
