@@ -18,12 +18,12 @@ I use Arch Linux & Niri ❤️ as my daily drive.
 - Prompt: [Starship](https://starship.rs/)
 - Text Editor: [Neovim](https://neovim.io/)
 - File Manager: [yazi](https://github.com/sxyazi/yazi)
-- Terminal Emulator: [WezTerm](https://wezfurlong.org/wezterm/)
+- Terminal Emulator: [Ghostty](https://ghostty.org/)
 
 All my dotfiles can be found in my [dotties](https://github.com/iCultureBud/dotties) repository - feel free to check them out!
 
 ## Profession
-As of now I'm a software developer with focus on aviation.
+As of now I'm a software developer with focus on aviation systems.
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=neovim,linux,cpp,go,py,docker)](https://skillicons.dev)
